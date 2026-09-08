@@ -1,5 +1,14 @@
 # @tanstack/ai-sandbox-daytona
 
+## 0.3.3
+
+### Patch Changes
+
+- [#1324](https://github.com/TanStack/ai/pull/1324) [`0a7b3c4`](https://github.com/TanStack/ai/commit/0a7b3c4393e9d3337637841aa73000d3fdabc58b) - fix: mount workspace secrets as Daytona organization Secrets so values never land in the sandbox record or command strings
+
+- Updated dependencies []:
+  - @tanstack/ai-sandbox@0.5.7
+
 ## 0.3.2
 
 ### Patch Changes
